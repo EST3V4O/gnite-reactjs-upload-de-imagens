@@ -9,7 +9,7 @@ Desafio proposto pela [Rocketseat](https://www.rocketseat.com.br/) na trilha Rea
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://react.dev/)
-- [NextJs](https://create-react-app.dev/)
+- [NextJs](https://nextjs.org/)
 - [Chakra UI](https://chakra-ui.com/)
 - [React Query](https://tanstack.com/query/latest)
 - [React Hook Form](https://react-hook-form.com/)
